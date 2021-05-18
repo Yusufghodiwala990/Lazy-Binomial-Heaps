@@ -1,0 +1,6 @@
+C:\Users\yusuf\OneDrive - Trent University\WINTER_2021\COIS 3020\Yusuf_Ghodiwala_Assign3\Assign3_3020_PARTB\Assign3_3020_LazyBinHeap\bin\Debug\Assign3_3020_LazyBinHeap.exe.config
+C:\Users\yusuf\OneDrive - Trent University\WINTER_2021\COIS 3020\Yusuf_Ghodiwala_Assign3\Assign3_3020_PARTB\Assign3_3020_LazyBinHeap\obj\Debug\Assign3_3020_LazyBinHeap.exe
+C:\Users\yusuf\OneDrive - Trent University\WINTER_2021\COIS 3020\Yusuf_Ghodiwala_Assign3\Assign3_3020_PARTB\Assign3_3020_LazyBinHeap\obj\Debug\Assign3_3020_LazyBinHeap.pdb
+C:\Users\yusuf\OneDrive - Trent University\WINTER_2021\COIS 3020\Yusuf_Ghodiwala_Assign3\Assign3_3020_PARTB\Assign3_3020_LazyBinHeap\bin\Debug\Assign3_3020_LazyBinHeap.exe
+C:\Users\yusuf\OneDrive - Trent University\WINTER_2021\COIS 3020\Yusuf_Ghodiwala_Assign3\Assign3_3020_PARTB\Assign3_3020_LazyBinHeap\bin\Debug\Assign3_3020_LazyBinHeap.pdb
+C:\Users\yusuf\OneDrive - Trent University\WINTER_2021\COIS 3020\Yusuf_Ghodiwala_Assign3\Assign3_3020_PARTB\Assign3_3020_LazyBinHeap\obj\Debug\Assign3_3020_PARTB.csprojResolveAssemblyReference.cache
